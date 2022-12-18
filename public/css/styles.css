@@ -4,7 +4,6 @@ html {
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
-
 h1 {
   color: #fff;
   padding: 10px;
@@ -19,7 +18,7 @@ h1 {
 }
 
 #heading {
-  background-color:#A683E3;
+  background-color:#a083e3;
   text-align: center;
 }
 
